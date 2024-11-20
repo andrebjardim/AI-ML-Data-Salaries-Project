@@ -1,0 +1,1035 @@
+work_year,experience_level,job_title,company_location,company_size,salary_in_usd
+2020,Executive,Staff Data Analyst,Canada,Medium,15000.0
+2020,Mid-Level,BI Data Analyst,United States,Medium,98000.0
+2020,Mid-Level,Business Data Analyst,United States,Medium,95300.0
+2020,Mid-Level,Research Scientist,United States,Medium,414800.0
+2021,Entry-Level,Applied Data Scientist,United Kingdom,Large,110037.0
+2021,Entry-Level,Data Scientist,United States,Small,100000.0
+2021,Executive,Data Scientist,United States,Large,250000.0
+2021,Mid-Level,Data Analyst,United States,Large,68500.0
+2021,Mid-Level,Data Engineer,United States,Large,30254.5
+2021,Mid-Level,Data Engineer,United States,Medium,102462.5
+2021,Mid-Level,Data Scientist,United States,Large,72550.0
+2021,Mid-Level,Data Scientist,United States,Small,110000.0
+2021,Senior,Data Analytics Manager,United States,Large,126000.0
+2021,Senior,Data Engineer,United States,Large,150000.0
+2021,Senior,Data Engineer,United States,Medium,165000.0
+2021,Senior,Data Scientist,United States,Large,187500.0
+2021,Senior,Lead Data Engineer,United States,Large,264800.0
+2021,Senior,Principal Data Scientist,United States,Large,220000.0
+2022,Entry-Level,Computer Vision Engineer,United States,Medium,125000.0
+2022,Entry-Level,Data Analyst,Canada,Medium,59500.0
+2022,Entry-Level,Data Analyst,United States,Medium,58200.0
+2022,Entry-Level,Data Engineer,United States,Medium,135000.0
+2022,Entry-Level,Data Scientist,United States,Large,82050.0
+2022,Entry-Level,Data Scientist,United States,Medium,85000.0
+2022,Entry-Level,Machine Learning Engineer,United States,Large,82950.0
+2022,Entry-Level,Machine Learning Engineer,United States,Medium,159000.0
+2022,Entry-Level,Machine Learning Engineer,United States,Small,108000.0
+2022,Executive,Data Engineer,United States,Medium,173500.0
+2022,Executive,Data Scientist,United States,Medium,200410.0
+2022,Executive,Head of Data,United States,Medium,182500.0
+2022,Mid-Level,AI Scientist,United States,Medium,120000.0
+2022,Mid-Level,Analytics Engineer,United Kingdom,Medium,89271.5
+2022,Mid-Level,Analytics Engineer,United States,Medium,127000.0
+2022,Mid-Level,Data Analyst,Canada,Medium,80000.0
+2022,Mid-Level,Data Analyst,United Kingdom,Medium,60581.3
+2022,Mid-Level,Data Analyst,United States,Large,113000.0
+2022,Mid-Level,Data Analyst,United States,Medium,124000.0
+2022,Mid-Level,Data Analyst,United States,Small,58000.0
+2022,Mid-Level,Data Analytics Manager,United States,Medium,147500.0
+2022,Mid-Level,Data Engineer,United Kingdom,Medium,92350.0
+2022,Mid-Level,Data Engineer,United States,Medium,102500.0
+2022,Mid-Level,Data Manager,United States,Medium,116000.0
+2022,Mid-Level,Data Scientist,United Kingdom,Medium,68954.5
+2022,Mid-Level,Data Scientist,United States,Medium,135650.0
+2022,Mid-Level,Data Specialist,United States,Medium,150000.0
+2022,Mid-Level,Financial Data Analyst,United States,Medium,88750.0
+2022,Mid-Level,Machine Learning Engineer,United Kingdom,Medium,97275.2
+2022,Mid-Level,Machine Learning Engineer,United States,Medium,130000.0
+2022,Mid-Level,Machine Learning Scientist,United States,Medium,150000.0
+2022,Senior,AI Developer,Canada,Small,275000.0
+2022,Senior,Analytics Engineer,United Kingdom,Medium,97891.0
+2022,Senior,Analytics Engineer,United States,Medium,166000.0
+2022,Senior,Applied Machine Learning Scientist,United States,Large,109050.0
+2022,Senior,Data Analyst,United Kingdom,Medium,78189.5
+2022,Senior,Data Analyst,United States,Large,115000.0
+2022,Senior,Data Analyst,United States,Medium,115967.0
+2022,Senior,Data Architect,United States,Medium,134650.0
+2022,Senior,Data Engineer,Canada,Medium,153500.0
+2022,Senior,Data Engineer,United Kingdom,Medium,69292.975
+2022,Senior,Data Engineer,United States,Large,154572.5
+2022,Senior,Data Engineer,United States,Medium,137930.0
+2022,Senior,Data Operations Analyst,United States,Medium,107625.0
+2022,Senior,Data Operations Engineer,United States,Medium,89000.0
+2022,Senior,Data Scientist,United Kingdom,Medium,103647.2
+2022,Senior,Data Scientist,United States,Large,158760.875
+2022,Senior,Data Scientist,United States,Medium,151900.0
+2022,Senior,Data Specialist,United States,Medium,90000.0
+2022,Senior,ETL Developer,United States,Medium,156500.0
+2022,Senior,Machine Learning Engineer,Canada,Medium,126500.0
+2022,Senior,Machine Learning Engineer,United States,Medium,169650.0
+2022,Senior,Machine Learning Scientist,United States,Medium,168950.0
+2022,Senior,Research Engineer,United States,Medium,199705.0
+2022,Senior,Research Scientist,United States,Medium,199675.0
+2023,Entry-Level,Analytics Engineer,United States,Medium,87000.0
+2023,Entry-Level,Applied Scientist,United States,Large,162717.5
+2023,Entry-Level,Applied Scientist,United States,Medium,211400.0
+2023,Entry-Level,BI Developer,United States,Medium,92800.0
+2023,Entry-Level,Business Intelligence Analyst,Canada,Medium,74825.0
+2023,Entry-Level,Business Intelligence Analyst,United Kingdom,Medium,46140.0
+2023,Entry-Level,Business Intelligence Analyst,United States,Medium,82500.0
+2023,Entry-Level,Computer Vision Engineer,United States,Medium,212690.0
+2023,Entry-Level,Data Analyst,Canada,Large,40747.0
+2023,Entry-Level,Data Analyst,United Kingdom,Medium,51676.5
+2023,Entry-Level,Data Analyst,United States,Large,66587.5
+2023,Entry-Level,Data Analyst,United States,Medium,74223.325
+2023,Entry-Level,Data Analyst,United States,Medium,83300.0
+2023,Entry-Level,Data Engineer,United Kingdom,Medium,86128.0
+2023,Entry-Level,Data Engineer,United States,Medium,86500.0
+2023,Entry-Level,Data Integration Specialist,Canada,Medium,98675.0
+2023,Entry-Level,Data Management Analyst,United States,Medium,85000.0
+2023,Entry-Level,Data Manager,United States,Medium,117700.0
+2023,Entry-Level,Data Scientist,United Kingdom,Medium,35496.5
+2023,Entry-Level,Data Scientist,United Kingdom,Medium,131407.0
+2023,Entry-Level,Data Scientist,United States,Large,100000.0
+2023,Entry-Level,Data Scientist,United States,Medium,107500.0
+2023,Entry-Level,Data Visualization Specialist,United States,Medium,91050.0
+2023,Entry-Level,Deep Learning Engineer,United States,Medium,135000.0
+2023,Entry-Level,MLOps Engineer,United States,Medium,95650.0
+2023,Entry-Level,Machine Learning Engineer,United States,Large,76000.0
+2023,Entry-Level,Machine Learning Engineer,United States,Medium,138142.5
+2023,Entry-Level,Research Analyst,United Kingdom,Medium,43064.0
+2023,Entry-Level,Research Analyst,United States,Large,92700.0
+2023,Entry-Level,Research Analyst,United States,Medium,77876.5
+2023,Entry-Level,Research Engineer,United States,Medium,152500.0
+2023,Entry-Level,Research Scientist,United States,Large,147800.0
+2023,Entry-Level,Research Scientist,United States,Medium,152500.0
+2023,Executive,Analytics Engineer,United States,Medium,185000.0
+2023,Executive,Business Intelligence Developer,United States,Medium,137000.0
+2023,Executive,Business Intelligence Engineer,United States,Medium,209850.0
+2023,Executive,Data Analyst,United States,Medium,106250.0
+2023,Executive,Data Analytics Manager,United States,Medium,147500.0
+2023,Executive,Data Architect,United States,Medium,167500.0
+2023,Executive,Data Engineer,United Kingdom,Medium,123464.4
+2023,Executive,Data Engineer,United States,Medium,167727.0
+2023,Executive,Data Lead,United States,Medium,226000.0
+2023,Executive,Data Manager,United States,Medium,97062.5
+2023,Executive,Data Scientist,United Kingdom,Medium,182652.0
+2023,Executive,Data Scientist,United States,Large,206250.0
+2023,Executive,Data Scientist,United States,Medium,206950.0
+2023,Executive,Head of Data,United Kingdom,Medium,212053.2
+2023,Executive,Head of Data,United States,Medium,247500.0
+2023,Executive,Head of Machine Learning,United States,Medium,251525.0
+2023,Executive,NLP Engineer,United States,Medium,175000.0
+2023,Executive,Research Scientist,United States,Medium,202500.0
+2023,Mid-Level,AI Engineer,United Kingdom,Medium,204900.0
+2023,Mid-Level,AI Engineer,United States,Medium,168500.0
+2023,Mid-Level,AI Research Engineer,United Kingdom,Medium,81206.0
+2023,Mid-Level,Analytics Engineer,United Kingdom,Medium,73824.0
+2023,Mid-Level,Analytics Engineer,United Kingdom,Medium,129250.0
+2023,Mid-Level,Analytics Engineer,United States,Medium,118240.0
+2023,Mid-Level,Applied Machine Learning Engineer,United States,Medium,130000.0
+2023,Mid-Level,Applied Scientist,United States,Large,185750.0
+2023,Mid-Level,Applied Scientist,United States,Medium,177745.0
+2023,Mid-Level,BI Analyst,United States,Medium,140000.0
+2023,Mid-Level,BI Developer,United Kingdom,Medium,70748.0
+2023,Mid-Level,BI Developer,United States,Medium,90750.0
+2023,Mid-Level,Business Intelligence Analyst,Canada,Medium,83343.625
+2023,Mid-Level,Business Intelligence Analyst,United States,Medium,112850.0
+2023,Mid-Level,Business Intelligence Developer,United Kingdom,Medium,43064.0
+2023,Mid-Level,Business Intelligence Engineer,United Kingdom,Medium,43064.0
+2023,Mid-Level,Business Intelligence Engineer,United States,Large,122600.0
+2023,Mid-Level,Business Intelligence Engineer,United States,Medium,175000.0
+2023,Mid-Level,Business Intelligence Manager,United States,Medium,112000.0
+2023,Mid-Level,Business Intelligence Specialist,United States,Medium,88756.0
+2023,Mid-Level,Data Analyst,United Kingdom,Medium,64596.0
+2023,Mid-Level,Data Analyst,United Kingdom,Medium,83250.0
+2023,Mid-Level,Data Analyst,United States,Medium,100000.0
+2023,Mid-Level,Data Analytics Lead,United Kingdom,Medium,113812.0
+2023,Mid-Level,Data Analytics Manager,United States,Medium,140000.0
+2023,Mid-Level,Data Architect,United Kingdom,Medium,83052.0
+2023,Mid-Level,Data Architect,United States,Medium,125000.0
+2023,Mid-Level,Data Developer,United States,Medium,97500.0
+2023,Mid-Level,Data Engineer,Canada,Medium,132233.875
+2023,Mid-Level,Data Engineer,United Kingdom,Medium,71670.5
+2023,Mid-Level,Data Engineer,United States,Large,122426.0
+2023,Mid-Level,Data Engineer,United States,Medium,130000.0
+2023,Mid-Level,Data Infrastructure Engineer,United States,Medium,186655.0
+2023,Mid-Level,Data Manager,United Kingdom,Medium,70748.0
+2023,Mid-Level,Data Manager,United States,Large,107350.0
+2023,Mid-Level,Data Manager,United States,Medium,112750.0
+2023,Mid-Level,Data Modeler,United Kingdom,Medium,83052.0
+2023,Mid-Level,Data Modeler,United States,Medium,115000.0
+2023,Mid-Level,Data Operations Specialist,United States,Medium,80405.0
+2023,Mid-Level,Data Product Manager,United States,Medium,173500.0
+2023,Mid-Level,Data Product Owner,United Kingdom,Medium,79976.0
+2023,Mid-Level,Data Quality Analyst,United States,Medium,82500.0
+2023,Mid-Level,Data Quality Manager,United Kingdom,Medium,59059.0
+2023,Mid-Level,Data Scientist,United Kingdom,Medium,73824.0
+2023,Mid-Level,Data Scientist,United States,Large,169300.0
+2023,Mid-Level,Data Scientist,United States,Medium,135000.0
+2023,Mid-Level,Data Specialist,United States,Medium,80900.0
+2023,Mid-Level,Data Strategist,United States,Medium,80405.0
+2023,Mid-Level,Data Visualization Specialist,United States,Medium,124150.0
+2023,Mid-Level,Decision Scientist,United States,Medium,173350.0
+2023,Mid-Level,Insight Analyst,United Kingdom,Medium,47370.0
+2023,Mid-Level,Lead Data Analyst,United States,Large,81772.5
+2023,Mid-Level,MLOps Engineer,United States,Medium,119550.0
+2023,Mid-Level,Machine Learning Engineer,United Kingdom,Medium,116703.5
+2023,Mid-Level,Machine Learning Engineer,United Kingdom,Medium,204900.0
+2023,Mid-Level,Machine Learning Engineer,United States,Large,228855.0
+2023,Mid-Level,Machine Learning Engineer,United States,Medium,157005.0
+2023,Mid-Level,Machine Learning Engineer,United States,Small,145000.0
+2023,Mid-Level,Machine Learning Infrastructure Engineer,United States,Medium,187286.5
+2023,Mid-Level,Machine Learning Research Engineer,United Kingdom,Large,73824.0
+2023,Mid-Level,Machine Learning Researcher,United States,Medium,181550.0
+2023,Mid-Level,Machine Learning Researcher,United States,Small,202874.99999999997
+2023,Mid-Level,Machine Learning Scientist,United States,Medium,187286.5
+2023,Mid-Level,Machine Learning Scientist,United States,Small,162500.0
+2023,Mid-Level,Machine Learning Software Engineer,United States,Medium,181300.0
+2023,Mid-Level,Research Analyst,United States,Medium,91000.0
+2023,Mid-Level,Research Analyst,United States,Small,106750.0
+2023,Mid-Level,Research Engineer,United States,Medium,152500.0
+2023,Mid-Level,Research Scientist,United Kingdom,Medium,151197.5
+2023,Mid-Level,Research Scientist,United States,Large,212800.0
+2023,Mid-Level,Research Scientist,United States,Medium,152500.0
+2023,Senior,AI Architect,United States,Medium,213009.24999999997
+2023,Senior,AI Developer,United States,Medium,211000.0
+2023,Senior,AI Engineer,United States,Medium,170200.0
+2023,Senior,AI Scientist,United States,Medium,185500.0
+2023,Senior,Analytics Engineer,Canada,Medium,120000.0
+2023,Senior,Analytics Engineer,United Kingdom,Medium,231159.99999999997
+2023,Senior,Analytics Engineer,United States,Medium,160000.0
+2023,Senior,Applied Scientist,United States,Large,185950.0
+2023,Senior,Applied Scientist,United States,Medium,188950.0
+2023,Senior,BI Analyst,United States,Medium,135000.0
+2023,Senior,BI Developer,United Kingdom,Medium,80345.0
+2023,Senior,BI Developer,United States,Medium,106500.0
+2023,Senior,Business Intelligence Analyst,Canada,Medium,126000.0
+2023,Senior,Business Intelligence Analyst,United Kingdom,Medium,59951.225
+2023,Senior,Business Intelligence Analyst,United States,Medium,126000.0
+2023,Senior,Business Intelligence Developer,Canada,Medium,108250.0
+2023,Senior,Business Intelligence Developer,United States,Medium,110600.0
+2023,Senior,Business Intelligence Engineer,Canada,Medium,135000.0
+2023,Senior,Business Intelligence Engineer,United Kingdom,Medium,61520.0
+2023,Senior,Business Intelligence Engineer,United States,Large,144850.0
+2023,Senior,Business Intelligence Engineer,United States,Medium,177500.0
+2023,Senior,Business Intelligence Specialist,United States,Medium,199550.0
+2023,Senior,Computer Vision Engineer,United Kingdom,Medium,227500.0
+2023,Senior,Computer Vision Engineer,United States,Medium,210000.0
+2023,Senior,Data Analyst,Canada,Medium,116000.0
+2023,Senior,Data Analyst,United Kingdom,Medium,86130.5
+2023,Senior,Data Analyst,United Kingdom,Medium,125842.5
+2023,Senior,Data Analyst,United States,Large,158750.0
+2023,Senior,Data Analyst,United States,Medium,120000.0
+2023,Senior,Data Analytics Lead,United States,Medium,99960.0
+2023,Senior,Data Analytics Manager,United States,Medium,167500.0
+2023,Senior,Data Analytics Specialist,United States,Medium,95000.0
+2023,Senior,Data Architect,United Kingdom,Medium,98432.0
+2023,Senior,Data Architect,United States,Large,180950.0
+2023,Senior,Data Architect,United States,Medium,159750.0
+2023,Senior,Data Developer,United States,Medium,115100.0
+2023,Senior,Data Engineer,Canada,Medium,141250.0
+2023,Senior,Data Engineer,United Kingdom,Medium,95356.0
+2023,Senior,Data Engineer,United Kingdom,Medium,154050.0
+2023,Senior,Data Engineer,United States,Large,154350.0
+2023,Senior,Data Engineer,United States,Medium,150000.0
+2023,Senior,Data Infrastructure Engineer,United States,Medium,192500.0
+2023,Senior,Data Integration Engineer,United States,Medium,137500.0
+2023,Senior,Data Lead,United States,Medium,177500.0
+2023,Senior,Data Management Specialist,United States,Medium,116500.0
+2023,Senior,Data Manager,United Kingdom,Medium,64450.5
+2023,Senior,Data Manager,United States,Medium,130000.0
+2023,Senior,Data Modeler,United States,Medium,143300.0
+2023,Senior,Data Operations Analyst,United Kingdom,Medium,110500.0
+2023,Senior,Data Operations Analyst,United States,Medium,118000.0
+2023,Senior,Data Operations Engineer,United States,Medium,213009.24999999997
+2023,Senior,Data Product Manager,United States,Medium,141250.0
+2023,Senior,Data Quality Analyst,United States,Medium,93200.0
+2023,Senior,Data Quality Engineer,United States,Medium,131500.0
+2023,Senior,Data Scientist,Canada,Medium,183000.0
+2023,Senior,Data Scientist,United Kingdom,Medium,147648.0
+2023,Senior,Data Scientist,United Kingdom,Medium,171500.0
+2023,Senior,Data Scientist,United States,Large,162550.0
+2023,Senior,Data Scientist,United States,Medium,168000.0
+2023,Senior,Data Scientist,United States,Small,191000.0
+2023,Senior,Data Specialist,United States,Medium,93200.0
+2023,Senior,Data Strategist,Canada,Medium,94625.0
+2023,Senior,Data Strategist,United States,Medium,93200.0
+2023,Senior,Data Visualization Analyst,United States,Medium,120000.0
+2023,Senior,Data Visualization Engineer,United States,Medium,118900.0
+2023,Senior,Data Visualization Specialist,United States,Medium,127050.0
+2023,Senior,Decision Scientist,United States,Medium,164050.0
+2023,Senior,Deep Learning Engineer,United States,Medium,213009.24999999997
+2023,Senior,ETL Developer,United States,Medium,105450.0
+2023,Senior,MLOps Engineer,United States,Medium,151000.0
+2023,Senior,Machine Learning Engineer,Canada,Medium,180350.0
+2023,Senior,Machine Learning Engineer,United Kingdom,Medium,150293.0
+2023,Senior,Machine Learning Engineer,United Kingdom,Medium,199200.0
+2023,Senior,Machine Learning Engineer,United States,Large,194450.0
+2023,Senior,Machine Learning Engineer,United States,Medium,197400.0
+2023,Senior,Machine Learning Infrastructure Engineer,United Kingdom,Medium,146350.0
+2023,Senior,Machine Learning Infrastructure Engineer,United States,Medium,175800.0
+2023,Senior,Machine Learning Modeler,United States,Medium,173350.0
+2023,Senior,Machine Learning Researcher,United States,Medium,129650.0
+2023,Senior,Machine Learning Scientist,Canada,Medium,173350.0
+2023,Senior,Machine Learning Scientist,United Kingdom,Medium,179023.0
+2023,Senior,Machine Learning Scientist,United States,Medium,175000.0
+2023,Senior,Machine Learning Software Engineer,United States,Medium,184500.0
+2023,Senior,NLP Engineer,United States,Medium,205000.0
+2023,Senior,Prompt Engineer,United States,Medium,162000.0
+2023,Senior,Research Analyst,United States,Large,142072.5
+2023,Senior,Research Analyst,United States,Medium,142155.0
+2023,Senior,Research Engineer,United States,Large,196402.5
+2023,Senior,Research Engineer,United States,Medium,182400.0
+2023,Senior,Research Scientist,Canada,Medium,190000.0
+2023,Senior,Research Scientist,United States,Large,170050.0
+2023,Senior,Research Scientist,United States,Medium,200000.0
+2024,Entry-Level,AI Developer,United States,Medium,82088.0
+2024,Entry-Level,AI Engineer,United States,Large,104004.0
+2024,Entry-Level,AI Engineer,United States,Medium,87700.0
+2024,Entry-Level,AI Researcher,United States,Medium,179000.00000000006
+2024,Entry-Level,Actuarial Analyst,United States,Medium,94000.0
+2024,Entry-Level,Analyst,Canada,Medium,69230.0
+2024,Entry-Level,Analyst,Canada,Medium,59239.0
+2024,Entry-Level,Analyst,United Kingdom,Medium,53125.0
+2024,Entry-Level,Analyst,United States,Medium,70000.0
+2024,Entry-Level,Analyst,United States,Medium,89305.0
+2024,Entry-Level,Analytics Engineer,United States,Medium,108950.0
+2024,Entry-Level,Applied Scientist,Canada,Medium,197019.0
+2024,Entry-Level,Applied Scientist,United States,Large,179100.0
+2024,Entry-Level,Applied Scientist,United States,Medium,136575.0
+2024,Entry-Level,Artificial Intelligence Engineer,United States,Medium,93000.0
+2024,Entry-Level,Associate,United Kingdom,Medium,55075.0
+2024,Entry-Level,Associate,United States,Medium,90500.0
+2024,Entry-Level,BI Analyst,United Kingdom,Medium,50175.5
+2024,Entry-Level,BI Analyst,United States,Medium,89219.0
+2024,Entry-Level,BI Developer,United Kingdom,Medium,51579.5
+2024,Entry-Level,BI Engineer,United States,Medium,95000.0
+2024,Entry-Level,Bear Robotics,United States,Medium,80000.0
+2024,Entry-Level,Bioinformatics Scientist,United States,Medium,51050.0
+2024,Entry-Level,Business Analyst,United States,Medium,95000.0
+2024,Entry-Level,Business Intelligence,United States,Medium,74212.0
+2024,Entry-Level,Business Intelligence Analyst,Canada,Medium,82118.5
+2024,Entry-Level,Business Intelligence Analyst,United Kingdom,Medium,55263.0
+2024,Entry-Level,Business Intelligence Analyst,United States,Medium,100540.0
+2024,Entry-Level,Business Intelligence Developer,United States,Medium,72800.0
+2024,Entry-Level,Business Intelligence Engineer,United States,Large,119850.0
+2024,Entry-Level,Business Intelligence Engineer,United States,Medium,63900.0
+2024,Entry-Level,Business Intelligence Lead,United States,Medium,150747.5
+2024,Entry-Level,Chatbot Developer,United States,Medium,118965.0
+2024,Entry-Level,Computer Vision Engineer,United States,Medium,138800.0
+2024,Entry-Level,Consultant,United States,Medium,87925.0
+2024,Entry-Level,Data Analyst,Canada,Medium,64000.0
+2024,Entry-Level,Data Analyst,Canada,Medium,80000.0
+2024,Entry-Level,Data Analyst,United Kingdom,Medium,44381.0
+2024,Entry-Level,Data Analyst,United Kingdom,Medium,80812.49999999997
+2024,Entry-Level,Data Analyst,United States,Large,106150.0
+2024,Entry-Level,Data Analyst,United States,Medium,58125.0
+2024,Entry-Level,Data Analyst,United States,Medium,89000.0
+2024,Entry-Level,Data Analytics Associate,United States,Medium,52000.0
+2024,Entry-Level,Data Analytics Specialist,United States,Medium,116500.0
+2024,Entry-Level,Data Architect,United States,Medium,138000.0
+2024,Entry-Level,Data Engineer,Canada,Medium,87777.5
+2024,Entry-Level,Data Engineer,United Kingdom,Medium,57000.0
+2024,Entry-Level,Data Engineer,United States,Large,134540.0
+2024,Entry-Level,Data Engineer,United States,Medium,51050.0
+2024,Entry-Level,Data Engineer,United States,Medium,96000.0
+2024,Entry-Level,Data Governance Analyst,Canada,Medium,87500.0
+2024,Entry-Level,Data Governance Analyst,United States,Medium,111500.0
+2024,Entry-Level,Data Governance Engineer,United States,Medium,123200.0
+2024,Entry-Level,Data Integration Analyst,United States,Medium,90000.0
+2024,Entry-Level,Data Integration Engineer,United States,Medium,160000.0
+2024,Entry-Level,Data Integrity Analyst,United Kingdom,Medium,35625.0
+2024,Entry-Level,Data Integrity Analyst,United States,Medium,110500.0
+2024,Entry-Level,Data Management Analyst,Canada,Medium,72068.0
+2024,Entry-Level,Data Management Analyst,United States,Medium,80000.0
+2024,Entry-Level,Data Management Specialist,Canada,Medium,68222.5
+2024,Entry-Level,Data Manager,United States,Medium,70000.0
+2024,Entry-Level,Data Operations Analyst,Canada,Medium,65175.0
+2024,Entry-Level,Data Operations Analyst,United States,Medium,75500.0
+2024,Entry-Level,Data Operations Associate,United States,Medium,61687.5
+2024,Entry-Level,Data Product Analyst,United States,Medium,135170.0
+2024,Entry-Level,Data Quality Analyst,United Kingdom,Medium,62417.0
+2024,Entry-Level,Data Quality Analyst,United States,Medium,84850.0
+2024,Entry-Level,Data Quality Specialist,United States,Medium,79050.0
+2024,Entry-Level,Data Reporting Analyst,United States,Medium,55500.0
+2024,Entry-Level,Data Scientist,United Kingdom,Medium,39612.5
+2024,Entry-Level,Data Scientist,United States,Large,123496.5
+2024,Entry-Level,Data Scientist,United States,Medium,51050.0
+2024,Entry-Level,Data Scientist,United States,Medium,110000.0
+2024,Entry-Level,Data Specialist,Canada,Medium,58339.55
+2024,Entry-Level,Data Specialist,United Kingdom,Medium,50000.0
+2024,Entry-Level,Data Specialist,United States,Medium,62700.0
+2024,Entry-Level,Data Visualization Analyst,United States,Medium,118998.0
+2024,Entry-Level,Data Visualization Specialist,United States,Medium,135000.0
+2024,Entry-Level,DevOps Engineer,United States,Medium,133146.0
+2024,Entry-Level,Developer,United States,Medium,85000.0
+2024,Entry-Level,Engineer,Canada,Medium,62000.0
+2024,Entry-Level,Engineer,United Kingdom,Medium,65625.0
+2024,Entry-Level,Engineer,United States,Large,126900.0
+2024,Entry-Level,Engineer,United States,Medium,95000.0
+2024,Entry-Level,Full Stack Developer,United States,Medium,82500.0
+2024,Entry-Level,Insight Analyst,United Kingdom,Medium,55290.5
+2024,Entry-Level,Insight Analyst,United States,Medium,62500.0
+2024,Entry-Level,MLOps Engineer,United States,Medium,150000.0
+2024,Entry-Level,Machine Learning Developer,United States,Medium,78925.0
+2024,Entry-Level,Machine Learning Engineer,Canada,Medium,176000.0
+2024,Entry-Level,Machine Learning Engineer,United States,Medium,139875.0
+2024,Entry-Level,Machine Learning Model Engineer,United States,Medium,179000.00000000006
+2024,Entry-Level,Machine Learning Researcher,United States,Medium,179000.00000000006
+2024,Entry-Level,Machine Learning Scientist,Canada,Medium,198793.05000000002
+2024,Entry-Level,Machine Learning Scientist,United Kingdom,Medium,60000.0
+2024,Entry-Level,Machine Learning Scientist,United States,Medium,138700.0
+2024,Entry-Level,Manager,United Kingdom,Medium,45000.0
+2024,Entry-Level,Manager,United States,Large,104004.0
+2024,Entry-Level,Manager,United States,Medium,87500.0
+2024,Entry-Level,Master Data Management,United Kingdom,Medium,47941.5
+2024,Entry-Level,Platform Engineer,United States,Medium,179000.00000000006
+2024,Entry-Level,Power BI Developer,United Kingdom,Medium,35625.0
+2024,Entry-Level,Power BI Developer,United States,Medium,80000.0
+2024,Entry-Level,Pricing Analyst,United States,Medium,79462.5
+2024,Entry-Level,Product Analyst,United Kingdom,Medium,80812.49999999997
+2024,Entry-Level,Product Analyst,United States,Medium,56875.0
+2024,Entry-Level,Product Analyst,United States,Medium,107000.0
+2024,Entry-Level,Product Designer,United States,Medium,128250.0
+2024,Entry-Level,Product Manager,United States,Large,182702.5
+2024,Entry-Level,Product Manager,United States,Medium,131500.0
+2024,Entry-Level,Quantitative Analyst,United States,Medium,102453.0
+2024,Entry-Level,Quantitative Research Analyst,United States,Medium,51050.0
+2024,Entry-Level,Research Analyst,Canada,Medium,73476.0
+2024,Entry-Level,Research Analyst,Canada,Medium,99846.0
+2024,Entry-Level,Research Analyst,United States,Medium,106000.0
+2024,Entry-Level,Research Assistant,United Kingdom,Medium,39731.0
+2024,Entry-Level,Research Assistant,United States,Medium,51050.0
+2024,Entry-Level,Research Associate,United Kingdom,Medium,53837.5
+2024,Entry-Level,Research Associate,United States,Medium,74950.0
+2024,Entry-Level,Research Engineer,United States,Medium,155000.0
+2024,Entry-Level,Research Scientist,Canada,Medium,163980.0
+2024,Entry-Level,Research Scientist,United States,Medium,179000.00000000006
+2024,Entry-Level,Site Reliability Engineer,United States,Medium,143325.0
+2024,Entry-Level,Software Developer,Canada,Medium,80250.0
+2024,Entry-Level,Software Developer,United Kingdom,Medium,35625.0
+2024,Entry-Level,Software Developer,United States,Medium,66000.0
+2024,Entry-Level,Software Development Engineer,United States,Large,115150.0
+2024,Entry-Level,Software Development Engineer,United States,Medium,125846.0
+2024,Entry-Level,Software Engineer,Canada,Medium,106080.0
+2024,Entry-Level,Software Engineer,United Kingdom,Medium,53125.0
+2024,Entry-Level,Software Engineer,United States,Medium,130000.0
+2024,Entry-Level,Solution Architect,United States,Medium,89000.0
+2024,Entry-Level,Statistical Programmer,United States,Medium,73650.0
+2024,Entry-Level,Statistician,United States,Medium,62500.0
+2024,Entry-Level,Systems Engineer,United States,Medium,81337.5
+2024,Executive,AI Engineer,Canada,Medium,153900.0
+2024,Executive,AI Engineer,United States,Medium,187550.0
+2024,Executive,Analyst,United States,Medium,139800.0
+2024,Executive,Analytics Engineer,United States,Medium,214000.0
+2024,Executive,Associate,United States,Medium,139100.0
+2024,Executive,BI Developer,United States,Medium,167250.0
+2024,Executive,Business Analyst,United States,Medium,116592.0
+2024,Executive,Business Intelligence,Canada,Medium,192500.0
+2024,Executive,Business Intelligence,United States,Medium,182500.0
+2024,Executive,Business Intelligence Analyst,United States,Medium,155000.0
+2024,Executive,Business Intelligence Developer,United States,Medium,147500.0
+2024,Executive,Data Analyst,United Kingdom,Medium,51486.8
+2024,Executive,Data Analyst,United Kingdom,Medium,59912.0
+2024,Executive,Data Analyst,United States,Medium,117960.0
+2024,Executive,Data Analytics Manager,United States,Medium,173880.0
+2024,Executive,Data Engineer,Canada,Medium,126347.4
+2024,Executive,Data Engineer,United States,Medium,179000.0
+2024,Executive,Data Governance Analyst,United States,Medium,135000.0
+2024,Executive,Data Governance Specialist,United States,Medium,135000.0
+2024,Executive,Data Integration Engineer,United States,Medium,150000.0
+2024,Executive,Data Manager,United States,Medium,162500.0
+2024,Executive,Data Operations Specialist,United States,Medium,165000.0
+2024,Executive,Data Product Manager,United States,Medium,180000.0
+2024,Executive,Data Product Owner,United States,Medium,185500.0
+2024,Executive,Data Scientist,Canada,Medium,128967.5
+2024,Executive,Data Scientist,United States,Medium,185000.0
+2024,Executive,Data Specialist,United States,Medium,246090.0
+2024,Executive,Data Visualization Analyst,United States,Medium,116592.0
+2024,Executive,Decision Scientist,United States,Medium,244650.0
+2024,Executive,Director of Business Intelligence,United States,Medium,187500.0
+2024,Executive,Director of Machine Learning,United States,Medium,205800.0
+2024,Executive,Engineer,United States,Medium,240000.0
+2024,Executive,Full Stack Engineer,United States,Medium,158000.0
+2024,Executive,Head of AI,United States,Medium,239750.0
+2024,Executive,Head of Data,Canada,Medium,232749.99999999997
+2024,Executive,Head of Data,United Kingdom,Medium,140760.0
+2024,Executive,Head of Data,United States,Medium,232000.0
+2024,Executive,Head of Machine Learning,United States,Medium,246090.0
+2024,Executive,Machine Learning Engineer,Canada,Medium,160000.0
+2024,Executive,Machine Learning Engineer,United States,Medium,232750.0
+2024,Executive,Machine Learning Scientist,United States,Medium,183400.0
+2024,Executive,Manager,United States,Medium,156160.0
+2024,Executive,Master Data Management,United States,Medium,212500.0
+2024,Executive,NLP Engineer,United States,Medium,175000.0
+2024,Executive,Platform Engineer,Canada,Medium,160000.0
+2024,Executive,Platform Engineer,United States,Medium,170250.0
+2024,Executive,Product Manager,United States,Medium,207688.5
+2024,Executive,Quantitative Analyst,United States,Medium,200000.0
+2024,Executive,Quantitative Researcher,United Kingdom,Medium,169864.0
+2024,Executive,Quantitative Researcher,United States,Medium,175000.0
+2024,Executive,Research Analyst,United States,Medium,178500.0
+2024,Executive,Robotics Software Engineer,United States,Medium,210000.0
+2024,Executive,Software Developer,United States,Medium,140000.0
+2024,Executive,Software Engineer,United States,Medium,221500.0
+2024,Executive,Solutions Engineer,United States,Medium,246090.0
+2024,Executive,Statistician,United States,Medium,116592.0
+2024,Mid-Level,AI Developer,United States,Medium,140700.0
+2024,Mid-Level,AI Engineer,Canada,Medium,134000.0
+2024,Mid-Level,AI Engineer,United Kingdom,Medium,87500.0
+2024,Mid-Level,AI Engineer,United Kingdom,Medium,130000.0
+2024,Mid-Level,AI Engineer,United States,Medium,149500.0
+2024,Mid-Level,AI Product Manager,Canada,Medium,175070.99999999997
+2024,Mid-Level,AI Product Manager,United States,Medium,203750.0
+2024,Mid-Level,AI Product Owner,United States,Medium,102500.0
+2024,Mid-Level,AI Research Engineer,United States,Large,200000.0
+2024,Mid-Level,AI Researcher,United States,Large,216149.99999999997
+2024,Mid-Level,AI Researcher,United States,Medium,205000.0
+2024,Mid-Level,AI Scientist,United States,Medium,140000.0
+2024,Mid-Level,AI Software Engineer,United States,Medium,130548.0
+2024,Mid-Level,AI Specialist,United States,Medium,105146.5
+2024,Mid-Level,Admin & Data Analyst,United States,Medium,95000.0
+2024,Mid-Level,Analyst,Canada,Medium,85905.5
+2024,Mid-Level,Analyst,United States,Medium,106650.0
+2024,Mid-Level,Analytics Engineer,Canada,Medium,67440.575
+2024,Mid-Level,Analytics Engineer,Canada,Medium,153000.0
+2024,Mid-Level,Analytics Engineer,United Kingdom,Medium,68750.0
+2024,Mid-Level,Analytics Engineer,United States,Medium,137950.0
+2024,Mid-Level,Applied Scientist,Canada,Medium,149483.5
+2024,Mid-Level,Applied Scientist,United States,Large,181600.0
+2024,Mid-Level,Applied Scientist,United States,Medium,172300.0
+2024,Mid-Level,Artificial Intelligence Engineer,United States,Medium,118850.0
+2024,Mid-Level,Associate,Canada,Medium,110000.0
+2024,Mid-Level,Associate,United Kingdom,Medium,55556.0
+2024,Mid-Level,Associate,United States,Large,157050.0
+2024,Mid-Level,Associate,United States,Medium,134599.0
+2024,Mid-Level,BI Analyst,United States,Medium,125600.0
+2024,Mid-Level,BI Developer,Canada,Medium,80000.0
+2024,Mid-Level,BI Developer,United Kingdom,Medium,55391.0
+2024,Mid-Level,BI Developer,United States,Medium,64541.875
+2024,Mid-Level,BI Developer,United States,Medium,103180.0
+2024,Mid-Level,BI Engineer,Canada,Medium,106150.0
+2024,Mid-Level,BI Engineer,United States,Medium,99596.5
+2024,Mid-Level,Backend Engineer,Canada,Medium,170000.0
+2024,Mid-Level,Backend Engineer,United States,Medium,162500.0
+2024,Mid-Level,Bear Robotics,United States,Medium,167500.0
+2024,Mid-Level,Big Data Developer,United States,Large,117000.0
+2024,Mid-Level,Big Data Developer,United States,Medium,92500.0
+2024,Mid-Level,Business Analyst,United States,Medium,88200.0
+2024,Mid-Level,Business Intelligence,Canada,Medium,83529.5
+2024,Mid-Level,Business Intelligence,United States,Medium,111700.0
+2024,Mid-Level,Business Intelligence Analyst,Canada,Medium,116650.0
+2024,Mid-Level,Business Intelligence Analyst,United States,Medium,120100.0
+2024,Mid-Level,Business Intelligence Developer,United Kingdom,Medium,59518.0
+2024,Mid-Level,Business Intelligence Developer,United States,Medium,100000.0
+2024,Mid-Level,Business Intelligence Engineer,United Kingdom,Medium,45921.3
+2024,Mid-Level,Business Intelligence Engineer,United States,Large,128350.0
+2024,Mid-Level,Business Intelligence Engineer,United States,Medium,134750.0
+2024,Mid-Level,Business Intelligence Manager,United States,Medium,141100.0
+2024,Mid-Level,Business Intelligence Specialist,United States,Medium,91038.5
+2024,Mid-Level,Clinical Data Operator,United States,Medium,64541.875
+2024,Mid-Level,Cloud Database Administrator,United States,Medium,100000.0
+2024,Mid-Level,Cloud Database Engineer,United Kingdom,Medium,62500.0
+2024,Mid-Level,Cloud Database Engineer,United States,Medium,147500.0
+2024,Mid-Level,Cloud Engineer,United States,Medium,129050.0
+2024,Mid-Level,Computational Biologist,United States,Medium,104350.0
+2024,Mid-Level,Computer Vision Engineer,United States,Medium,205750.0
+2024,Mid-Level,Consultant,Canada,Medium,80314.5
+2024,Mid-Level,Consultant,United Kingdom,Medium,169000.0
+2024,Mid-Level,Consultant,United States,Medium,107600.0
+2024,Mid-Level,Data Analyst,Canada,Medium,83954.5
+2024,Mid-Level,Data Analyst,United Kingdom,Medium,46875.0
+2024,Mid-Level,Data Analyst,United Kingdom,Medium,63412.0
+2024,Mid-Level,Data Analyst,United States,Large,87150.0
+2024,Mid-Level,Data Analyst,United States,Medium,96800.0
+2024,Mid-Level,Data Analytics Consultant,United States,Medium,95300.0
+2024,Mid-Level,Data Analytics Manager,United Kingdom,Medium,62500.0
+2024,Mid-Level,Data Analytics Manager,United States,Medium,128000.0
+2024,Mid-Level,Data Analytics Specialist,United States,Medium,104325.0
+2024,Mid-Level,Data Architect,United States,Large,129000.0
+2024,Mid-Level,Data Architect,United States,Medium,142750.0
+2024,Mid-Level,Data Developer,Canada,Medium,80769.0
+2024,Mid-Level,Data Developer,United States,Medium,100000.0
+2024,Mid-Level,Data Engineer,Canada,Medium,76923.0
+2024,Mid-Level,Data Engineer,Canada,Medium,117173.5
+2024,Mid-Level,Data Engineer,United Kingdom,Medium,64000.0
+2024,Mid-Level,Data Engineer,United Kingdom,Medium,75737.5
+2024,Mid-Level,Data Engineer,United States,Large,54438.600000000006
+2024,Mid-Level,Data Engineer,United States,Large,150000.0
+2024,Mid-Level,Data Engineer,United States,Medium,64541.875
+2024,Mid-Level,Data Engineer,United States,Medium,130000.0
+2024,Mid-Level,Data Governance Analyst,United States,Medium,147674.5
+2024,Mid-Level,Data Governance Manager,United Kingdom,Medium,62417.0
+2024,Mid-Level,Data Governance Manager,United States,Medium,127000.0
+2024,Mid-Level,Data Governance Specialist,United States,Medium,113205.0
+2024,Mid-Level,Data Infrastructure Engineer,United States,Medium,195600.0
+2024,Mid-Level,Data Integration Analyst,United States,Medium,98700.0
+2024,Mid-Level,Data Integration Coordinator,United States,Medium,67500.0
+2024,Mid-Level,Data Integration Engineer,United States,Medium,100000.0
+2024,Mid-Level,Data Integration Specialist,Canada,Medium,108882.5
+2024,Mid-Level,Data Integration Specialist,United States,Medium,77000.0
+2024,Mid-Level,Data Integrity Analyst,Canada,Medium,67440.575
+2024,Mid-Level,Data Management Analyst,United States,Medium,96280.0
+2024,Mid-Level,Data Management Associate,United States,Medium,96500.0
+2024,Mid-Level,Data Management Manager,United Kingdom,Medium,86171.0
+2024,Mid-Level,Data Management Manager,United States,Medium,138800.0
+2024,Mid-Level,Data Management Specialist,Canada,Medium,72150.0
+2024,Mid-Level,Data Management Specialist,United Kingdom,Medium,75000.0
+2024,Mid-Level,Data Management Specialist,United States,Medium,75500.0
+2024,Mid-Level,Data Manager,Canada,Medium,87000.0
+2024,Mid-Level,Data Manager,United Kingdom,Medium,58361.0
+2024,Mid-Level,Data Manager,United States,Medium,92500.0
+2024,Mid-Level,Data Modeler,Canada,Medium,91500.0
+2024,Mid-Level,Data Modeler,United States,Medium,113500.0
+2024,Mid-Level,Data Operations Analyst,United States,Medium,71000.0
+2024,Mid-Level,Data Operations Associate,United States,Medium,90000.0
+2024,Mid-Level,Data Operations Engineer,United States,Medium,114300.0
+2024,Mid-Level,Data Operations Manager,United States,Medium,123750.0
+2024,Mid-Level,Data Operations Specialist,United States,Medium,84000.0
+2024,Mid-Level,Data Product Manager,Canada,Medium,130150.0
+2024,Mid-Level,Data Product Manager,United Kingdom,Medium,71875.0
+2024,Mid-Level,Data Product Manager,United States,Medium,85625.0
+2024,Mid-Level,Data Product Manager,United States,Medium,152500.0
+2024,Mid-Level,Data Product Owner,United Kingdom,Medium,96875.0
+2024,Mid-Level,Data Product Owner,United States,Medium,71875.0
+2024,Mid-Level,Data Product Owner,United States,Medium,131095.0
+2024,Mid-Level,Data Quality Analyst,United States,Medium,64541.875
+2024,Mid-Level,Data Quality Engineer,United States,Medium,100000.0
+2024,Mid-Level,Data Quality Manager,United Kingdom,Medium,65763.5
+2024,Mid-Level,Data Quality Manager,United States,Medium,120000.0
+2024,Mid-Level,Data Quality Specialist,United States,Medium,95177.0
+2024,Mid-Level,Data Reporting Analyst,United Kingdom,Medium,62500.0
+2024,Mid-Level,Data Reporting Analyst,United States,Medium,75450.0
+2024,Mid-Level,Data Scientist,Canada,Medium,73461.0
+2024,Mid-Level,Data Scientist,Canada,Medium,104445.0
+2024,Mid-Level,Data Scientist,United Kingdom,Medium,59358.5
+2024,Mid-Level,Data Scientist,United Kingdom,Medium,145500.0
+2024,Mid-Level,Data Scientist,United States,Large,54438.600000000006
+2024,Mid-Level,Data Scientist,United States,Large,150497.5
+2024,Mid-Level,Data Scientist,United States,Medium,145000.0
+2024,Mid-Level,Data Specialist,Canada,Medium,112168.0
+2024,Mid-Level,Data Specialist,United Kingdom,Medium,50233.0
+2024,Mid-Level,Data Specialist,United States,Large,147000.0
+2024,Mid-Level,Data Specialist,United States,Medium,64541.875
+2024,Mid-Level,Data Specialist,United States,Medium,75161.5
+2024,Mid-Level,Data Strategist,United States,Medium,127500.0
+2024,Mid-Level,Data Strategy Manager,United States,Medium,146000.0
+2024,Mid-Level,Data Visualization Analyst,United States,Medium,102986.0
+2024,Mid-Level,Data Visualization Developer,United States,Medium,91050.0
+2024,Mid-Level,Data Visualization Engineer,United States,Medium,131774.0
+2024,Mid-Level,Data Visualization Specialist,United States,Medium,99000.0
+2024,Mid-Level,Decision Scientist,United States,Medium,134900.0
+2024,Mid-Level,DevOps Engineer,Canada,Medium,109450.0
+2024,Mid-Level,DevOps Engineer,United States,Medium,129700.0
+2024,Mid-Level,Developer,Canada,Medium,91010.5
+2024,Mid-Level,Developer,United States,Medium,115000.0
+2024,Mid-Level,ETL Developer,United States,Medium,120000.0
+2024,Mid-Level,ETL Engineer,United States,Medium,106300.0
+2024,Mid-Level,Encounter Data Management Professional,United States,Medium,64541.875
+2024,Mid-Level,Engineer,Canada,Medium,80769.0
+2024,Mid-Level,Engineer,Canada,Medium,111650.0
+2024,Mid-Level,Engineer,United Kingdom,Medium,78125.0
+2024,Mid-Level,Engineer,United Kingdom,Medium,100000.0
+2024,Mid-Level,Engineer,United States,Large,137000.0
+2024,Mid-Level,Engineer,United States,Medium,86875.0
+2024,Mid-Level,Engineer,United States,Medium,137875.0
+2024,Mid-Level,Engineering Manager,Canada,Medium,175070.99999999997
+2024,Mid-Level,Engineering Manager,United Kingdom,Medium,159375.0
+2024,Mid-Level,Engineering Manager,United States,Medium,205750.0
+2024,Mid-Level,Frontend Engineer,United States,Medium,205000.0
+2024,Mid-Level,Full Stack Developer,United States,Large,117300.0
+2024,Mid-Level,Full Stack Developer,United States,Medium,152000.0
+2024,Mid-Level,Full Stack Engineer,United States,Medium,146000.0
+2024,Mid-Level,ML Infrastructure Engineer,United States,Medium,205750.0
+2024,Mid-Level,MLOps Engineer,Canada,Medium,131350.0
+2024,Mid-Level,MLOps Engineer,United States,Medium,160000.0
+2024,Mid-Level,Machine Learning Developer,Canada,Medium,92500.0
+2024,Mid-Level,Machine Learning Developer,United States,Medium,84450.0
+2024,Mid-Level,Machine Learning Engineer,Canada,Medium,140712.0
+2024,Mid-Level,Machine Learning Engineer,United Kingdom,Medium,60608.5
+2024,Mid-Level,Machine Learning Engineer,United Kingdom,Medium,175000.0
+2024,Mid-Level,Machine Learning Engineer,United States,Large,166800.0
+2024,Mid-Level,Machine Learning Engineer,United States,Medium,172000.0
+2024,Mid-Level,Machine Learning Infrastructure Engineer,United States,Medium,171150.0
+2024,Mid-Level,Machine Learning Manager,United States,Medium,205750.0
+2024,Mid-Level,Machine Learning Model Engineer,United States,Medium,205750.0
+2024,Mid-Level,Machine Learning Platform Engineer,United States,Medium,205750.0
+2024,Mid-Level,Machine Learning Quality Engineer,United States,Medium,145600.0
+2024,Mid-Level,Machine Learning Researcher,United Kingdom,Medium,225000.0
+2024,Mid-Level,Machine Learning Researcher,United States,Medium,173250.0
+2024,Mid-Level,Machine Learning Scientist,Canada,Medium,131500.0
+2024,Mid-Level,Machine Learning Scientist,United States,Medium,163350.0
+2024,Mid-Level,Machine Vision Engineer,United States,Medium,80000.0
+2024,Mid-Level,Manager,Canada,Medium,84615.0
+2024,Mid-Level,Manager,Canada,Medium,127000.0
+2024,Mid-Level,Manager,United Kingdom,Medium,84287.5
+2024,Mid-Level,Manager,United States,Large,165500.0
+2024,Mid-Level,Manager,United States,Medium,137060.0
+2024,Mid-Level,Master Data Specialist,United States,Medium,83000.0
+2024,Mid-Level,NLP Engineer,United States,Medium,129150.0
+2024,Mid-Level,Platform Engineer,United States,Medium,133550.0
+2024,Mid-Level,Power BI Developer,Canada,Medium,96153.5
+2024,Mid-Level,Power BI Developer,United Kingdom,Medium,45921.3
+2024,Mid-Level,Power BI Developer,United States,Medium,65250.0
+2024,Mid-Level,Power BI Developer,United States,Medium,90000.0
+2024,Mid-Level,Principal Statistical Programmer,United States,Medium,174450.0
+2024,Mid-Level,Product Analyst,United States,Medium,90000.0
+2024,Mid-Level,Product Designer,United States,Medium,162500.0
+2024,Mid-Level,Product Manager,Canada,Medium,175070.99999999997
+2024,Mid-Level,Product Manager,United Kingdom,Medium,100000.0
+2024,Mid-Level,Product Manager,United States,Large,216149.99999999997
+2024,Mid-Level,Product Manager,United States,Medium,64541.875
+2024,Mid-Level,Product Manager,United States,Medium,165260.0
+2024,Mid-Level,Prompt Engineer,United States,Medium,205750.0
+2024,Mid-Level,Python Developer,Canada,Medium,125000.0
+2024,Mid-Level,Python Developer,United States,Medium,103175.0
+2024,Mid-Level,QA Engineer,United States,Medium,138150.0
+2024,Mid-Level,Quantitative Analyst,United States,Medium,142500.0
+2024,Mid-Level,Quantitative Researcher,United Kingdom,Medium,93750.0
+2024,Mid-Level,Quantitative Researcher,United Kingdom,Medium,225000.0
+2024,Mid-Level,Quantitative Researcher,United States,Medium,167500.0
+2024,Mid-Level,Research Analyst,Canada,Medium,84766.5
+2024,Mid-Level,Research Analyst,United States,Medium,110000.0
+2024,Mid-Level,Research Assistant,United Kingdom,Medium,50808.5
+2024,Mid-Level,Research Assistant,United States,Medium,71250.0
+2024,Mid-Level,Research Associate,United Kingdom,Medium,53082.0
+2024,Mid-Level,Research Associate,United States,Medium,67000.0
+2024,Mid-Level,Research Engineer,United Kingdom,Medium,225000.0
+2024,Mid-Level,Research Engineer,United Kingdom,Medium,225000.0
+2024,Mid-Level,Research Engineer,United States,Medium,175900.0
+2024,Mid-Level,Research Scientist,Canada,Medium,163980.0
+2024,Mid-Level,Research Scientist,United Kingdom,Medium,166187.5
+2024,Mid-Level,Research Scientist,United States,Large,165600.0
+2024,Mid-Level,Research Scientist,United States,Medium,177000.0
+2024,Mid-Level,Robotics Engineer,Canada,Medium,110000.0
+2024,Mid-Level,Robotics Engineer,United States,Medium,148225.0
+2024,Mid-Level,Robotics Software Engineer,United States,Medium,179000.0
+2024,Mid-Level,Security Engineer,United States,Large,174400.0
+2024,Mid-Level,Security Engineer,United States,Medium,146075.0
+2024,Mid-Level,Site Reliability Engineer,Canada,Medium,73076.0
+2024,Mid-Level,Site Reliability Engineer,United States,Medium,187040.0
+2024,Mid-Level,Software Developer,Canada,Medium,69230.0
+2024,Mid-Level,Software Developer,Canada,Medium,110150.0
+2024,Mid-Level,Software Developer,United Kingdom,Medium,45921.3
+2024,Mid-Level,Software Developer,United States,Medium,121060.0
+2024,Mid-Level,Software Development Engineer,Canada,Medium,91600.0
+2024,Mid-Level,Software Development Engineer,United States,Large,176450.0
+2024,Mid-Level,Software Development Engineer,United States,Medium,150700.0
+2024,Mid-Level,Software Engineer,Canada,Medium,69230.0
+2024,Mid-Level,Software Engineer,Canada,Medium,153000.0
+2024,Mid-Level,Software Engineer,United Kingdom,Medium,104375.0
+2024,Mid-Level,Software Engineer,United Kingdom,Medium,225000.0
+2024,Mid-Level,Software Engineer,United States,Large,176450.0
+2024,Mid-Level,Software Engineer,United States,Medium,169721.0
+2024,Mid-Level,Solutions Architect,United States,Large,122200.0
+2024,Mid-Level,Solutions Engineer,United States,Medium,139000.0
+2024,Mid-Level,Statistical Programmer,Canada,Medium,67440.575
+2024,Mid-Level,Statistical Programmer,United States,Medium,126625.5
+2024,Mid-Level,Systems Engineer,United States,Large,104496.0
+2024,Mid-Level,Systems Engineer,United States,Medium,136036.0
+2024,Mid-Level,Technical Writer,United States,Medium,85000.0
+2024,Senior,AI Architect,United States,Medium,197000.0
+2024,Senior,AI Developer,United States,Medium,185000.0
+2024,Senior,AI Engineer,Canada,Medium,130000.0
+2024,Senior,AI Engineer,United Kingdom,Medium,87500.0
+2024,Senior,AI Engineer,United States,Medium,187000.0
+2024,Senior,AI Engineer,United States,Small,140615.3
+2024,Senior,AI Lead,United States,Medium,161244.0
+2024,Senior,AI Product Manager,United States,Medium,227200.0
+2024,Senior,AI Product Owner,United States,Medium,117500.0
+2024,Senior,AI Programmer,Canada,Medium,176234.84999999998
+2024,Senior,AI Researcher,United States,Medium,158500.0
+2024,Senior,AI Scientist,United States,Medium,196450.0
+2024,Senior,AI Software Engineer,United States,Medium,161510.0
+2024,Senior,AI Solution Architect,United States,Medium,195523.0
+2024,Senior,AI Specialist,Canada,Medium,136100.0
+2024,Senior,AI Specialist,United States,Medium,165825.0
+2024,Senior,Analyst,Canada,Medium,87943.0
+2024,Senior,Analyst,United Kingdom,Medium,61162.5
+2024,Senior,Analyst,United States,Medium,82547.8
+2024,Senior,Analyst,United States,Medium,118000.0
+2024,Senior,Analytics Engineer,Canada,Medium,129230.0
+2024,Senior,Analytics Engineer,Canada,Medium,153000.0
+2024,Senior,Analytics Engineer,United Kingdom,Medium,81250.0
+2024,Senior,Analytics Engineer,United States,Medium,160750.0
+2024,Senior,Analytics Lead,United States,Medium,145800.0
+2024,Senior,Analytics Specialist,United States,Medium,88845.0
+2024,Senior,Applied AI ML Lead,United States,Medium,231374.29999999996
+2024,Senior,Applied Scientist,Canada,Medium,176234.84999999998
+2024,Senior,Applied Scientist,United States,Large,204850.0
+2024,Senior,Applied Scientist,United States,Medium,183600.0
+2024,Senior,Artificial Intelligence Engineer,United States,Medium,190250.0
+2024,Senior,Associate,Canada,Medium,94000.0
+2024,Senior,Associate,United States,Medium,112500.0
+2024,Senior,BI Analyst,United Kingdom,Medium,62331.0
+2024,Senior,BI Analyst,United States,Medium,100000.0
+2024,Senior,BI Developer,United Kingdom,Medium,59125.0
+2024,Senior,BI Developer,United States,Medium,153650.0
+2024,Senior,BI Engineer,United Kingdom,Medium,65625.0
+2024,Senior,BI Engineer,United States,Medium,174750.0
+2024,Senior,Backend Engineer,Canada,Medium,105000.0
+2024,Senior,Backend Engineer,United Kingdom,Medium,111250.0
+2024,Senior,Backend Engineer,United States,Medium,193000.0
+2024,Senior,Bear Robotics,United States,Medium,190000.0
+2024,Senior,Bioinformatics Scientist,United States,Medium,171800.0
+2024,Senior,Business Analyst,Canada,Medium,85861.5
+2024,Senior,Business Analyst,United Kingdom,Medium,75750.0
+2024,Senior,Business Analyst,United States,Medium,140391.0
+2024,Senior,Business Intelligence,Canada,Medium,118000.0
+2024,Senior,Business Intelligence,United Kingdom,Medium,59125.0
+2024,Senior,Business Intelligence,United States,Large,160050.0
+2024,Senior,Business Intelligence,United States,Medium,140000.0
+2024,Senior,Business Intelligence Analyst,Canada,Medium,111611.5
+2024,Senior,Business Intelligence Analyst,United Kingdom,Medium,68750.0
+2024,Senior,Business Intelligence Analyst,United States,Medium,122363.0
+2024,Senior,Business Intelligence Consultant,United States,Medium,109500.0
+2024,Senior,Business Intelligence Developer,Canada,Medium,122100.0
+2024,Senior,Business Intelligence Developer,United Kingdom,Medium,59375.0
+2024,Senior,Business Intelligence Developer,United States,Medium,126000.0
+2024,Senior,Business Intelligence Engineer,United States,Large,142087.5
+2024,Senior,Business Intelligence Engineer,United States,Medium,139000.0
+2024,Senior,Business Intelligence Lead,United Kingdom,Medium,103125.0
+2024,Senior,Business Intelligence Lead,United States,Large,160050.0
+2024,Senior,Business Intelligence Lead,United States,Medium,82547.8
+2024,Senior,Business Intelligence Lead,United States,Medium,144300.0
+2024,Senior,Business Intelligence Manager,United Kingdom,Medium,94375.0
+2024,Senior,Business Intelligence Specialist,United States,Medium,110264.5
+2024,Senior,Chatbot Developer,United States,Medium,175000.0
+2024,Senior,Cloud Database Administrator,United States,Medium,156832.0
+2024,Senior,Cloud Database Engineer,United States,Medium,231374.29999999996
+2024,Senior,Cloud Developer,United States,Medium,211500.0
+2024,Senior,Cloud Engineer,Canada,Medium,132000.0
+2024,Senior,Cloud Engineer,United States,Medium,162650.0
+2024,Senior,Computational Biologist,Canada,Medium,175768.5
+2024,Senior,Computational Biologist,United States,Medium,156150.0
+2024,Senior,Computer Vision Engineer,United Kingdom,Medium,72500.0
+2024,Senior,Computer Vision Engineer,United States,Medium,192500.0
+2024,Senior,Consultant,Canada,Medium,88000.0
+2024,Senior,Consultant,United States,Large,171250.0
+2024,Senior,Consultant,United States,Medium,131037.5
+2024,Senior,Data Analyst,Canada,Medium,85861.5
+2024,Senior,Data Analyst,Canada,Medium,105756.0
+2024,Senior,Data Analyst,United Kingdom,Medium,73503.0
+2024,Senior,Data Analyst,United Kingdom,Medium,130000.0
+2024,Senior,Data Analyst,United States,Large,145700.0
+2024,Senior,Data Analyst,United States,Medium,82547.8
+2024,Senior,Data Analyst,United States,Medium,122000.0
+2024,Senior,Data Analytics Associate,United States,Medium,119500.0
+2024,Senior,Data Analytics Consultant,United States,Medium,115000.0
+2024,Senior,Data Analytics Lead,United States,Medium,171420.0
+2024,Senior,Data Analytics Manager,United States,Medium,170200.0
+2024,Senior,Data Analytics Specialist,United States,Medium,140500.0
+2024,Senior,Data Analytics Team Lead,United States,Medium,170000.0
+2024,Senior,Data Architect,Canada,Medium,115743.0
+2024,Senior,Data Architect,United Kingdom,Medium,100000.0
+2024,Senior,Data Architect,United Kingdom,Medium,87500.0
+2024,Senior,Data Architect,United States,Large,227000.0
+2024,Senior,Data Architect,United States,Medium,160000.0
+2024,Senior,Data Developer,Canada,Medium,86000.0
+2024,Senior,Data Developer,United Kingdom,Medium,62500.0
+2024,Senior,Data Developer,United States,Medium,137500.0
+2024,Senior,Data Engineer,Canada,Medium,99233.5
+2024,Senior,Data Engineer,Canada,Medium,139500.0
+2024,Senior,Data Engineer,United Kingdom,Medium,81250.0
+2024,Senior,Data Engineer,United States,Large,147706.0
+2024,Senior,Data Engineer,United States,Medium,82547.8
+2024,Senior,Data Engineer,United States,Medium,160000.0
+2024,Senior,Data Governance Analyst,United States,Medium,133600.0
+2024,Senior,Data Governance Engineer,United States,Medium,177450.0
+2024,Senior,Data Governance Lead,United Kingdom,Medium,93750.0
+2024,Senior,Data Governance Lead,United States,Medium,172500.0
+2024,Senior,Data Governance Specialist,United States,Medium,136713.5
+2024,Senior,Data Infrastructure Engineer,United States,Medium,189500.0
+2024,Senior,Data Integration Developer,United States,Medium,138528.0
+2024,Senior,Data Integration Engineer,United States,Medium,139000.0
+2024,Senior,Data Lead,United Kingdom,Medium,71250.0
+2024,Senior,Data Lead,United States,Large,167000.0
+2024,Senior,Data Lead,United States,Medium,82547.8
+2024,Senior,Data Lead,United States,Medium,149620.0
+2024,Senior,Data Management Analyst,United States,Medium,115614.0
+2024,Senior,Data Management Consultant,United States,Medium,92500.0
+2024,Senior,Data Management Lead,United Kingdom,Medium,70400.5
+2024,Senior,Data Management Lead,United States,Medium,102000.0
+2024,Senior,Data Management Specialist,United States,Medium,116100.0
+2024,Senior,Data Manager,Canada,Medium,109904.5
+2024,Senior,Data Manager,United Kingdom,Medium,67356.5
+2024,Senior,Data Manager,United States,Medium,110500.0
+2024,Senior,Data Modeler,Canada,Medium,131700.0
+2024,Senior,Data Modeler,United States,Medium,132100.0
+2024,Senior,Data Operations Analyst,United States,Medium,130000.0
+2024,Senior,Data Operations Engineer,United States,Medium,194500.0
+2024,Senior,Data Operations Manager,United States,Medium,191500.0
+2024,Senior,Data Operations Specialist,United States,Medium,118250.0
+2024,Senior,Data Pipeline Engineer,United States,Medium,172500.0
+2024,Senior,Data Product Manager,United Kingdom,Medium,178750.0
+2024,Senior,Data Product Manager,United States,Medium,176100.0
+2024,Senior,Data Product Owner,United States,Medium,110000.0
+2024,Senior,Data Quality Analyst,United Kingdom,Medium,78125.0
+2024,Senior,Data Quality Analyst,United States,Medium,124600.0
+2024,Senior,Data Quality Engineer,United States,Medium,127750.0
+2024,Senior,Data Quality Lead,United States,Medium,82547.8
+2024,Senior,Data Quality Lead,United States,Medium,157280.0
+2024,Senior,Data Quality Manager,United States,Medium,147201.5
+2024,Senior,Data Quality Specialist,United States,Medium,143058.0
+2024,Senior,Data Reporting Analyst,United States,Medium,82547.8
+2024,Senior,Data Scientist,Canada,Medium,111538.0
+2024,Senior,Data Scientist,Canada,Medium,159850.0
+2024,Senior,Data Scientist,United Kingdom,Medium,75000.0
+2024,Senior,Data Scientist,United Kingdom,Medium,156000.0
+2024,Senior,Data Scientist,United States,Large,169267.5
+2024,Senior,Data Scientist,United States,Medium,82547.8
+2024,Senior,Data Scientist,United States,Medium,170502.0
+2024,Senior,Data Specialist,United Kingdom,Medium,59125.0
+2024,Senior,Data Specialist,United States,Medium,135200.0
+2024,Senior,Data Strategist,United States,Medium,137500.0
+2024,Senior,Data Strategy Lead,United States,Medium,124000.0
+2024,Senior,Data Team Lead,United Kingdom,Medium,111250.0
+2024,Senior,Data Team Lead,United States,Medium,160500.0
+2024,Senior,Data Visualization Analyst,United States,Medium,98935.0
+2024,Senior,Data Visualization Engineer,Canada,Medium,86538.0
+2024,Senior,Data Visualization Engineer,Canada,Medium,125000.0
+2024,Senior,Data Visualization Engineer,United States,Medium,199750.0
+2024,Senior,Data Visualization Specialist,United States,Medium,100000.0
+2024,Senior,DataOps Engineer,United States,Medium,167500.0
+2024,Senior,Decision Scientist,United States,Medium,146500.0
+2024,Senior,DevOps Engineer,Canada,Medium,121625.0
+2024,Senior,DevOps Engineer,United States,Large,142087.5
+2024,Senior,DevOps Engineer,United States,Medium,146768.5
+2024,Senior,Developer,United States,Medium,135740.0
+2024,Senior,Director of Machine Learning,United States,Medium,210000.0
+2024,Senior,ETL Developer,United States,Medium,132500.0
+2024,Senior,Elasticsearch Administrator,United States,Medium,98700.0
+2024,Senior,Encounter Data Management Professional,United States,Medium,83000.0
+2024,Senior,Engineer,Canada,Medium,121153.5
+2024,Senior,Engineer,Canada,Medium,127500.0
+2024,Senior,Engineer,United Kingdom,Medium,100000.0
+2024,Senior,Engineer,United States,Large,151300.0
+2024,Senior,Engineer,United States,Medium,177050.0
+2024,Senior,Engineering Manager,United Kingdom,Medium,129843.5
+2024,Senior,Engineering Manager,United States,Medium,231374.29999999996
+2024,Senior,Frontend Engineer,United States,Medium,195375.0
+2024,Senior,Full Stack Developer,United States,Medium,130000.0
+2024,Senior,Full Stack Engineer,United States,Medium,161760.0
+2024,Senior,Fullstack Engineer,United Kingdom,Medium,125000.0
+2024,Senior,Fullstack Engineer,United States,Medium,180000.0
+2024,Senior,Head of Data,Canada,Medium,144270.0
+2024,Senior,Head of Data,United States,Medium,231374.29999999996
+2024,Senior,Infrastructure Engineer,United States,Medium,180400.0
+2024,Senior,Insight Analyst,United Kingdom,Medium,399999.9999999998
+2024,Senior,Insight Analyst,United States,Large,145700.0
+2024,Senior,Insight Analyst,United States,Medium,82547.8
+2024,Senior,Lead Engineer,United States,Medium,170000.0
+2024,Senior,ML Infrastructure Engineer,United Kingdom,Medium,399999.9999999998
+2024,Senior,ML Infrastructure Engineer,United States,Medium,192450.0
+2024,Senior,MLOps Engineer,United Kingdom,Medium,87500.0
+2024,Senior,MLOps Engineer,United States,Medium,180000.0
+2024,Senior,Machine Learning Architect,United States,Medium,189985.0
+2024,Senior,Machine Learning Developer,Canada,Medium,131650.0
+2024,Senior,Machine Learning Developer,United States,Medium,231374.29999999996
+2024,Senior,Machine Learning Engineer,Canada,Medium,175768.5
+2024,Senior,Machine Learning Engineer,Canada,Medium,165605.0
+2024,Senior,Machine Learning Engineer,United Kingdom,Medium,142375.0
+2024,Senior,Machine Learning Engineer,United Kingdom,Medium,225000.0
+2024,Senior,Machine Learning Engineer,United Kingdom,Small,123125.0
+2024,Senior,Machine Learning Engineer,United States,Large,206400.0
+2024,Senior,Machine Learning Engineer,United States,Medium,201730.0
+2024,Senior,Machine Learning Engineer,United States,Small,146153.0
+2024,Senior,Machine Learning Infrastructure Engineer,United States,Medium,219120.0
+2024,Senior,Machine Learning Lead,United States,Medium,171550.0
+2024,Senior,Machine Learning Manager,United States,Medium,231374.29999999996
+2024,Senior,Machine Learning Model Engineer,United States,Medium,231374.29999999996
+2024,Senior,Machine Learning Modeler,Canada,Medium,170700.0
+2024,Senior,Machine Learning Modeler,United States,Medium,192200.0
+2024,Senior,Machine Learning Performance Engineer,United States,Medium,231374.29999999996
+2024,Senior,Machine Learning Platform Engineer,Canada,Medium,176234.84999999998
+2024,Senior,Machine Learning Platform Engineer,United States,Medium,231374.29999999996
+2024,Senior,Machine Learning Quality Engineer,United States,Medium,173350.0
+2024,Senior,Machine Learning Researcher,United States,Medium,160000.0
+2024,Senior,Machine Learning Scientist,Canada,Medium,175768.5
+2024,Senior,Machine Learning Scientist,Canada,Medium,170600.0
+2024,Senior,Machine Learning Scientist,United Kingdom,Medium,196500.0
+2024,Senior,Machine Learning Scientist,United States,Medium,162827.0
+2024,Senior,Manager,Canada,Medium,137200.0
+2024,Senior,Manager,United States,Large,236100.0
+2024,Senior,Manager,United States,Medium,84375.0
+2024,Senior,Manager,United States,Medium,180000.0
+2024,Senior,Marketing Analyst,United States,Medium,100000.0
+2024,Senior,Member of Technical Staff,United States,Medium,174150.0
+2024,Senior,Platform Engineer,Canada,Medium,125000.0
+2024,Senior,Platform Engineer,United States,Medium,182500.0
+2024,Senior,Power BI Architect,United States,Medium,110000.0
+2024,Senior,Power BI Consultant,United States,Medium,106000.0
+2024,Senior,Power BI Developer,Canada,Medium,96153.5
+2024,Senior,Power BI Developer,United Kingdom,Medium,59375.0
+2024,Senior,Principal Application Delivery Consultant,United States,Medium,182500.0
+2024,Senior,Principal Statistical Programmer,United States,Medium,151800.0
+2024,Senior,Product Analyst,United Kingdom,Medium,106250.0
+2024,Senior,Product Analyst,United States,Medium,195460.0
+2024,Senior,Product Designer,United States,Medium,144600.0
+2024,Senior,Product Manager,Canada,Medium,147110.0
+2024,Senior,Product Manager,United Kingdom,Medium,94062.5
+2024,Senior,Product Manager,United Kingdom,Medium,122010.0
+2024,Senior,Product Manager,United States,Large,214600.0
+2024,Senior,Product Manager,United States,Medium,194000.0
+2024,Senior,Prompt Engineer,United States,Medium,170000.0
+2024,Senior,Python Developer,Canada,Medium,112500.0
+2024,Senior,Python Developer,United States,Medium,120000.0
+2024,Senior,Quantitative Analyst,United States,Medium,126082.0
+2024,Senior,Quantitative Researcher,United States,Medium,175000.0
+2024,Senior,Research Analyst,United Kingdom,Medium,93750.0
+2024,Senior,Research Analyst,United States,Medium,130000.0
+2024,Senior,Research Engineer,Canada,Medium,163300.0
+2024,Senior,Research Engineer,United Kingdom,Medium,399999.9999999998
+2024,Senior,Research Engineer,United Kingdom,Medium,290000.0
+2024,Senior,Research Engineer,United States,Medium,200000.0
+2024,Senior,Research Engineer,United States,Small,167615.3
+2024,Senior,Research Scientist,Canada,Medium,101788.0
+2024,Senior,Research Scientist,United Kingdom,Medium,356250.0
+2024,Senior,Research Scientist,United States,Large,182850.0
+2024,Senior,Research Scientist,United States,Medium,200200.0
+2024,Senior,Robotics Engineer,United States,Medium,152000.0
+2024,Senior,Robotics Software Engineer,United States,Medium,214000.0
+2024,Senior,Security Engineer,United States,Large,195450.0
+2024,Senior,Security Engineer,United States,Medium,166500.0
+2024,Senior,Site Reliability Engineer,Canada,Medium,120750.0
+2024,Senior,Site Reliability Engineer,United States,Medium,180800.0
+2024,Senior,Software Architect,United States,Large,247064.99999999997
+2024,Senior,Software Architect,United States,Medium,203450.0
+2024,Senior,Software Developer,Canada,Medium,85861.5
+2024,Senior,Software Developer,Canada,Medium,144500.0
+2024,Senior,Software Developer,United States,Large,247064.99999999997
+2024,Senior,Software Developer,United States,Medium,148017.0
+2024,Senior,Software Development Engineer,Canada,Medium,137250.0
+2024,Senior,Software Development Engineer,United States,Large,171800.0
+2024,Senior,Software Development Engineer,United States,Medium,183950.0
+2024,Senior,Software Engineer,Canada,Medium,109326.5
+2024,Senior,Software Engineer,Canada,Medium,175816.5
+2024,Senior,Software Engineer,United Kingdom,Medium,109375.0
+2024,Senior,Software Engineer,United Kingdom,Medium,225000.0
+2024,Senior,Software Engineer,United States,Large,206400.0
+2024,Senior,Software Engineer,United States,Medium,192000.0
+2024,Senior,Solution Architect,United States,Large,188600.0
+2024,Senior,Solution Architect,United States,Medium,183170.0
+2024,Senior,Solution Engineer,United States,Medium,168750.0
+2024,Senior,Solutions Architect,Canada,Medium,120500.0
+2024,Senior,Solutions Architect,United Kingdom,Medium,136923.0
+2024,Senior,Solutions Architect,United States,Large,192600.0
+2024,Senior,Solutions Architect,United States,Medium,205500.0
+2024,Senior,Solutions Engineer,Canada,Medium,130447.0
+2024,Senior,Solutions Engineer,United Kingdom,Medium,106250.0
+2024,Senior,Solutions Engineer,United Kingdom,Medium,227500.0
+2024,Senior,Solutions Engineer,United States,Medium,199412.5
+2024,Senior,Statistical Programmer,Canada,Medium,125000.0
+2024,Senior,Statistical Programmer,United States,Medium,164800.0
+2024,Senior,Statistician,Canada,Medium,140000.0
+2024,Senior,Statistician,United States,Medium,162500.0
+2024,Senior,Systems Engineer,United Kingdom,Medium,234375.0
+2024,Senior,Systems Engineer,United States,Medium,166100.0
+2024,Senior,Technical Lead,Canada,Medium,86153.5
+2024,Senior,Technical Lead,Canada,Medium,105500.0
+2024,Senior,Technical Lead,United States,Medium,210500.0
+2024,Senior,Technical Specialist,Canada,Medium,170450.0
+2024,Senior,Technical Writer,United States,Medium,145500.0
