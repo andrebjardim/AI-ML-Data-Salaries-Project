@@ -15,3 +15,9 @@ With in-office roles continuing to shape the workforce in AI and data fields, un
 ## Dataset(s)
 
 This project uses a comprehensive dataset from [AIJobs.net](https://aijobs.net/), which provides salary information on AI, data, and machine learning roles worldwide. The dataset includes details on job titles, experience levels, employment types, remote work ratios, company locations, and company sizes. With over 59,000 records, this data offers a robust foundation for analyzing salary trends across various regions, industries, and experience levels, with a focus on in-office roles. The dataset is published under the CC0 license, allowing anyone to copy, modify, and distribute the work, even for commercial purposes, without the need for permission.
+
+## Links
+
+[Tableau Dashboard](https://public.tableau.com/app/profile/andrejardim/viz/In-OfficeSalaryTrendsinAIDataandMachineLearningRoles2024/Salaries)
+
+[Datafolio](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/DataFolio.pdf)
