@@ -1,23 +1,49 @@
 # Analyzing In-Office Salary Trends in AI, Data, and Machine Learning Roles
 
-## Overview
+## Introduction
 
-As the demand for AI, data, and machine learning professionals grows, understanding compensation trends in these roles becomes crucial for employers, job seekers, and industry analysts. This project examines in-office salary patterns across AI, data, and machine learning roles to uncover trends based on job titles, experience levels, company size, and company location over time. By leveraging current salary datasets, I aim to address knowledge gaps in the industry regarding compensation in in-office roles, an area where comprehensive data is limited.
+The AI, data, and machine learning industries are experiencing significant growth as more organizations
+embrace data-driven strategies and automation. However, with a strong preference for in-office roles
+within these fields, understanding compensation trends is critical to attract and retain skilled talent. This
+project will analyze salary trends for in-office positions across AI, data, and machine learning roles,
+focusing on variations by job title, experience level, company size, company location, and changes over
+time from 2020 to 2024. With a majority of entries originating from the U.S., this analysis will explore
+how U.S. salary trends align with or diverge from international patterns. Additionally, the dataset lacks
+a primary key, resulting in duplicate entries that must be carefully managed to preserve data integrity.
 
-## Problem Statement
+## Business Impact
 
-Despite the increasing popularity of remote work, a substantial portion of AI, data, and machine learning roles remain in-office. This analysis will focus on understanding salary trends for in-office positions, examining how factors like job title, experience level, company size, company location, and changes over time impact compensation. By highlighting these trends, I aim to provide insights valuable to companies designing competitive compensation packages and individuals seeking clarity on in-office salary expectations.
-
-## Relevance
-
-With in-office roles continuing to shape the workforce in AI and data fields, understanding the salary dynamics for these positions is crucial for talent acquisition and retention. Recent studies, such as LinkedIn's Workforce Report, indicate that in-office roles still play a dominant role in certain high-tech sectors, often offering differentiated salary structures compared to remote positions. The insights generated from this analysis could help businesses attract the right talent and assist professionals in making informed career choices within these industries.
+By examining in-office salary trends in these fast-growing fields, the analysis will provide companies
+with benchmarks for competitive compensation strategies, aiding in talent acquisition and retention.
+This data-driven approach will also benefit industry professionals, offering clear benchmarks that
+support informed career decisions and negotiations. For policymakers and analysts, the findings can
+illuminate regional disparities in salary and the relative competitiveness of the U.S. against other regions.
 
 ## Dataset(s)
 
-This project uses a comprehensive dataset from [AIJobs.net](https://aijobs.net/), which provides salary information on AI, data, and machine learning roles worldwide. The dataset includes details on job titles, experience levels, employment types, remote work ratios, company locations, and company sizes. With over 59,000 records, this data offers a robust foundation for analyzing salary trends across various regions, industries, and experience levels, with a focus on in-office roles. The dataset is published under the CC0 license, allowing anyone to copy, modify, and distribute the work, even for commercial purposes, without the need for permission.
+This project uses a comprehensive dataset from [AIJobs.net](https://aijobs.net/), which provides salary information on AI,
+data, and machine learning roles worldwide. The dataset includes details on job titles, experience levels,
+employment types, remote work ratios, company locations, and company sizes. With over 59,000
+records, this data offers a robust foundation for analyzing salary trends across various regions,
+industries, and experience levels, with a focus on in-office roles. The dataset is published under the
+CC0 license, allowing anyone to copy, modify, and distribute the work, even for commercial purposes,
+without the need for permission.
 
-## Links
+## Project Resources
+
+[Project Description](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Project_Description.pdf)
+
+[Project Scoping](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Project_Scoping.pdf)
+
+[Data Curation](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Data_Curation.pdf)
+
+[Exploratory Data Analysis](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Exploratory_Data_Analysis.pdf)
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/andrejardim/viz/In-OfficeSalaryTrendsinAIDataandMachineLearningRoles2024/Salaries)
 
 [Datafolio](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/DataFolio.pdf)
+
+[Final Report](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Final_Report.pdf)
+
+To run the code in Google Colab click [here](https://colab.research.google.com/drive/1QjADlgvIQUAn1XokoE4mmoBp_vOkR53u?usp=sharing).
+
