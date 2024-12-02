@@ -29,6 +29,15 @@ industries, and experience levels, with a focus on in-office roles. The dataset 
 CC0 license, allowing anyone to copy, modify, and distribute the work, even for commercial purposes,
 without the need for permission.
 
+## Tools Used
+
+- **Jupyter Notebook in Google Colab**: Used for performing all analysis, including SQL queries, data wrangling, and exploratory data analysis (EDA).
+- **SQL**: Used for data profiling to understand data structure, identify missing values, and assess general data quality.
+- **Python**: Utilized for data wrangling and exploratory data analysis (EDA), including handling duplicates and performing statistical analysis.
+- **Tableau**: Used to create interactive dashboards for visualizing trends and insights across various factors such as job titles, experience level, and company location.
+- **Google Slides**: Leveraged to create a datafolio, providing a structured presentation of findings for stakeholders.
+- **Microsoft Word**: Used for documentation and reporting, detailing the analysis methodology, results, and insights.
+
 ## Project Resources
 
 [Project Description](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Project_Description.pdf)
