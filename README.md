@@ -2,57 +2,78 @@
 
 ## Introduction
 
-The AI, data, and machine learning industries are experiencing significant growth as more organizations
-embrace data-driven strategies and automation. However, with a strong preference for in-office roles
-within these fields, understanding compensation trends is critical to attract and retain skilled talent. This
-project will analyze salary trends for in-office positions across AI, data, and machine learning roles,
-focusing on variations by job title, experience level, company size, company location, and changes over
-time from 2020 to 2024. With a majority of entries originating from the U.S., this analysis will explore
-how U.S. salary trends align with or diverge from international patterns. Additionally, the dataset lacks
-a primary key, resulting in duplicate entries that must be carefully managed to preserve data integrity.
+The AI, data, and machine learning industries are experiencing significant growth as organizations increasingly embrace data-driven strategies and automation. Understanding compensation trends, particularly for in-office roles, is crucial for attracting and retaining top talent.
+
+This project analyzes salary trends for in-office positions in these fields, focusing on:
+
+- Variations by job title, experience level, company size, and location.
+- Salary changes from 2020 to 2024.
+- A primary focus on U.S. salary trends with a comparison to international patterns.
 
 ## Business Impact
 
-By examining in-office salary trends in these fast-growing fields, the analysis will provide companies
-with benchmarks for competitive compensation strategies, aiding in talent acquisition and retention.
-This data-driven approach will also benefit industry professionals, offering clear benchmarks that
-support informed career decisions and negotiations. For policymakers and analysts, the findings can
-illuminate regional disparities in salary and the relative competitiveness of the U.S. against other regions.
+This analysis delivers value by:
+
+- **For Companies**: Providing benchmarks for competitive compensation strategies, aiding in talent acquisition and retention.
+- **For Professionals**: Offering benchmarks to make informed career decisions and salary negotiations.
+- **For Policymakers and Analysts**: Highlighting regional disparities and the U.S.'s competitiveness in global markets.
 
 ## Dataset(s)
 
-This project uses a comprehensive dataset from [AIJobs.net](https://aijobs.net/), which provides salary information on AI,
-data, and machine learning roles worldwide. The dataset includes details on job titles, experience levels,
-employment types, remote work ratios, company locations, and company sizes. With over 59,000
-records, this data offers a robust foundation for analyzing salary trends across various regions,
-industries, and experience levels, with a focus on in-office roles. The dataset is published under the
-CC0 license, allowing anyone to copy, modify, and distribute the work, even for commercial purposes,
-without the need for permission.
+This project utilizes data from [AIJobs.net](https://aijobs.net/), which contains over 59,000 records of salary information for AI, data, and machine learning roles worldwide. The dataset includes:
+
+- Job titles
+- Experience levels
+- Employment types
+- Remote work ratios
+- Company locations and sizes
+  
+**License**: CC0 (open for copying, modifying, and distributing without permission).
+
+**Note**: Duplicate entries due to the absence of a primary key were carefully managed to ensure data integrity.
+
+## Analysis
+
+Key findings include:
+
+- **Experience Level**: Higher experience levels correlate with higher salaries, with greater variability at senior and executive levels.
+- **Company Size**: Larger companies typically offer higher salaries; medium-sized companies show the greatest salary range.
+- **Geographic Location**: The U.S. leads in average salary, followed by Canada and the U.K., which show lower but more consistent salaries.
+- **Job Titles**: Specialized roles (e.g., ML Infrastructure Engineer, Head of Machine Learning) command higher salaries, while common roles (e.g., Data Analyst, Data Scientist) are more prevalent but have lower average salaries.
+
+These insights empower organizations to optimize compensation strategies and individuals to align their career paths with market trends.
+
+## Recommendations
+
+- **For Future Studies**: Expand the dataset to include more diverse company locations, remote work roles, and additional job titles for a broader analysis.
+- **For Companies**: Incorporate factors like company size, location, and specialization when designing competitive compensation packages.
+- **For Professionals**: Focus on specialized roles to maximize earning potential.
 
 ## Tools Used
 
-- **Jupyter Notebook in Google Colab**: Used for performing all analysis, including SQL queries, data wrangling, and exploratory data analysis (EDA).
-- **SQL**: Used for data profiling to understand data structure, identify missing values, and assess general data quality.
-- **Python**: Utilized for data wrangling and exploratory data analysis (EDA), including handling duplicates and performing statistical analysis.
-- **Tableau**: Used to create interactive dashboards for visualizing trends and insights across various factors such as job titles, experience level, and company location.
-- **Google Slides**: Leveraged to create a datafolio, providing a structured presentation of findings for stakeholders.
-- **Microsoft Word**: Used for documentation and reporting, detailing the analysis methodology, results, and insights.
+- **Jupyter Notebook in Google Colab**: Analysis, including SQL queries, data wrangling, and exploratory data analysis (EDA).
+- **SQL**: Data profiling for structure understanding, missing value identification, and quality assessment.
+- **Python**: Data wrangling, statistical analysis, and handling duplicates.
+- **Tableau**: Interactive dashboards visualizing salary trends across various factors.
+- **Google Slides**: Structured presentation of findings in a datafolio.
+- **Microsoft Word**: Documentation and reporting, detailing methodology, results, and insights.
+- **GitHub**: Used for version control, collaboration, and sharing the project with stakeholders and the broader data analytics community.
 
 ## Project Resources
 
-[Project Description](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Project_Description.pdf)
+[Project Description](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Project_Description.pdf): Overview of the project's goals and scope.
 
-[Project Scoping](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Project_Scoping.pdf)
+[Project Scoping](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Project_Scoping.pdf): Definition of the problem, objectives, and deliverables.
 
-[Data Curation](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Data_Curation.pdf)
+[Data Curation](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Data_Curation.pdf): Processes for cleaning, transforming, and validating the dataset.
 
-[Exploratory Data Analysis](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Exploratory_Data_Analysis.pdf)
+[Exploratory Data Analysis](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Exploratory_Data_Analysis.pdf): Initial insights and data exploration.
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/andrejardim/viz/In-OfficeSalaryTrendsinAIDataandMachineLearningRoles2024/Salaries)
+[Tableau Dashboard](https://public.tableau.com/app/profile/andrejardim/viz/In-OfficeSalaryTrendsinAIDataandMachineLearningRoles2024/Salaries): Interactive visualization for stakeholders.
 
-[Datafolio](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/DataFolio.pdf)
+[Datafolio](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/DataFolio.pdf): Structured presentation of findings.
 
-[Final Report](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Final_Report.pdf)
+[Final Report](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Docs/Final_Report.pdf): Comprehensive documentation of analysis and recommendations.
 
 To run the code in Google Colab click [here](https://colab.research.google.com/drive/1QjADlgvIQUAn1XokoE4mmoBp_vOkR53u?usp=sharing).
 
