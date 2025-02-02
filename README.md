@@ -1,5 +1,5 @@
 # Analyzing In-Office Salary Trends in AI, Data, and Machine Learning Roles
-![Dashboard](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Dashboard.png)
+
 ## Introduction
 
 The AI, data, and machine learning industries are experiencing significant growth as organizations increasingly embrace data-driven strategies and automation. Understanding compensation trends, particularly for in-office roles, is crucial for attracting and retaining top talent.
