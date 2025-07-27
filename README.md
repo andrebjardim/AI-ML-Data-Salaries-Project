@@ -1,17 +1,87 @@
-# Analyzing In-Office Salary Trends in AI, Data, and Machine Learning Roles
+# Market Analysis of In-Office Salary Trends in AI, Data, and Machine Learning (US, CA, UK)
 
-## Overview
+![Dashboard Screenshot](https://github.com/andrebjardim/AI-ML-Data-Salaries-Project/blob/main/Dashboard.png)
 
-As the demand for AI, data, and machine learning professionals grows, understanding compensation trends in these roles becomes crucial for employers, job seekers, and industry analysts. This project examines in-office salary patterns across AI, data, and machine learning roles to uncover trends based on job titles, experience levels, company size, and company location over time. By leveraging current salary datasets, I aim to address knowledge gaps in the industry regarding compensation in in-office roles, an area where comprehensive data is limited.
+*Interactive dashboard for salary insights, talent benchmarking, and market trends (2020–2024).*
 
-## Problem Statement
+---
 
-Despite the increasing popularity of remote work, a substantial portion of AI, data, and machine learning roles remain in-office. This analysis will focus on understanding salary trends for in-office positions, examining how factors like job title, experience level, company size, company location, and changes over time impact compensation. By highlighting these trends, I aim to provide insights valuable to companies designing competitive compensation packages and individuals seeking clarity on in-office salary expectations.
+## Executive Summary
 
-## Relevance
+Gain an edge in hiring or negotiation: This project delivers clear, data-driven salary benchmarks for in-office AI, Data, and Machine Learning roles, focusing on the US, Canada, and UK.  
+**Key findings:** Executive and specialist roles command the highest pay; US leads the market; large firms and experience drive compensation higher.  
+_Explore the dashboard above or dive into the code for full transparency._
 
-With in-office roles continuing to shape the workforce in AI and data fields, understanding the salary dynamics for these positions is crucial for talent acquisition and retention. Recent studies, such as LinkedIn's Workforce Report, indicate that in-office roles still play a dominant role in certain high-tech sectors, often offering differentiated salary structures compared to remote positions. The insights generated from this analysis could help businesses attract the right talent and assist professionals in making informed career choices within these industries.
+---
 
-## Dataset(s)
+## Project Overview
 
-This project uses a comprehensive dataset from [AIJobs.net](https://aijobs.net/), which provides salary information on AI, data, and machine learning roles worldwide. The dataset includes details on job titles, experience levels, employment types, remote work ratios, company locations, and company sizes. With over 59,000 records, this data offers a robust foundation for analyzing salary trends across various regions, industries, and experience levels, with a focus on in-office roles. The dataset is published under the CC0 license, allowing anyone to copy, modify, and distribute the work, even for commercial purposes, without the need for permission.
+- **Goal:** Provide actionable compensation insights for HR, hiring managers, analysts, and job seekers in AI/Data/ML fields.
+- **Approach:**  
+  - Rigorous data cleaning, outlier handling, and aggregation for reliability  
+  - Focused on in-office, full-time roles (remote/hybrid excluded for clarity)
+  - Clear, visual storytelling with Tableau & Python  
+- **Outcome:** Ready-to-use benchmarks for negotiation, budgeting, and talent strategy.
+
+---
+
+## Key Insights
+
+- **Executives and specialists (e.g., Head of Data, AI Product Manager) earn the highest median salaries.**
+- **US roles pay 27%+ more than UK and Canada at median.**
+- **Large firms pay $34K more than medium-sized ones, at median.**
+- **Seniority matters:** Executives earn 2x more than entry-level roles; career progression pays.
+
+---
+
+## Dataset & Methodology
+
+- **Data Source:** [AIJobs.net](https://aijobs.net) salary dataset, 2020–2024 (CC0 licensed)
+- **Scope:** 59,325 records → 44,733 in-office, full-time jobs (US, CA, UK) after filtering  
+- **Aggregation:**  
+  - Aggregated by job title, experience, year, location, and company size  
+  - Only groups with ≥3 survey responses are considered “statistically stable”
+- **Cleaning:**  
+  - Duplicates and outliers handled to ensure robust analysis  
+  - All data and code available for reproducibility
+
+---
+
+## Project Structure
+
+- **Jupyter Notebook:** End-to-end analysis, data prep, and reproducible code  
+  [`ai_ml_data_salaries_project.ipynb`](ai_ml_data_salaries_project.ipynb)
+- **Dashboard:** Interactive Tableau (see screenshot above)
+- **Data:**  
+  - `Data/salaries.csv` (raw, as provided)  
+  - `salary_groups.csv` (aggregated, for Tableau/dashboard)  
+- **Docs:** Methodology, insights, and appendix
+
+---
+
+## How to Use
+
+1. **Explore the Dashboard:** See key salary benchmarks at a glance
+2. **Run the Notebook:** Full code & step-by-step reproducibility
+3. **Re-use the Data:** All cleaned/aggregated data provided (see `/Data` folder)
+
+---
+
+## Example Insights
+
+> - **Head of Data**: $232K median salary (highest in market)
+> - **US, In-Office, Executive**: $180K+ median salary  
+> - **Career Progression**: Executive roles pay 2x more than Entry level  
+> - **Large vs. Medium Companies**: +$34K at median for large firms
+
+---
+
+## 📮 Contact
+
+**André Jardim**  
+Data Analyst | Portfolio: [GitHub](https://github.com/andrebjardim) 
+[LinkedIn](https://linkedin.com/in/andrebjardim)
+
+---
+
+*This project is open-source, fully reproducible, and designed for real-world business impact. Feel free to fork, use, or reference!*
